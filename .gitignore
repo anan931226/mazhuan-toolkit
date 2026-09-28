@@ -1,0 +1,7 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+
+# 審閱頁產生的判決檔：那是各自的審查內容，不屬於這個方法論 repo
+*.decisions.json

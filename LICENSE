@@ -1,0 +1,39 @@
+本 repo 採雙授權 / This repository is dual-licensed:
+
+- 程式碼（`template/`）採 MIT License，全文如下。
+  Code under `template/` is licensed under the MIT License (full text below).
+
+- 文件（`README.md`、`docs/`）採 CC BY 4.0。
+  Documentation (`README.md`, `docs/`) is licensed under CC BY 4.0
+  <https://creativecommons.org/licenses/by/4.0/>
+
+以上授權**不及於**使用者自行準備的來源素材（教科書 PDF、由其衍生的圖表、
+筆記與題目），也不表示可以重新散布教科書內容。本 repo 不含任何該類內容。
+
+Neither license extends to source material you supply yourself (textbook PDFs,
+figures derived from them, notes, or question banks), nor does it grant any right
+to redistribute textbook content. No such content is included in this repository.
+
+---
+
+MIT License
+
+Copyright (c) 2026 anan931226
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
